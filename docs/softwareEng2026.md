@@ -1,6 +1,7 @@
 ---
-layout: home
-title: "ソフトウェア工学 2026"
+layout: page
+title: "ソフトウェア工学 2026 講義まとめ"
+permalink: /docs/softwareEng2026
 ---
 
 # ソフトウェア工学 まとめ
